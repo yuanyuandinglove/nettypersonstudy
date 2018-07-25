@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FollowStart" />
+        <module name="JMSDemo1" />
+        <module name="NettyDemo" />
+        <module name="NettyDemo1FromBook" />
+        <module name="NettyHttpServer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="FollowStart" target="1.7" />
+      <module name="JmsDemo" target="1.7" />
+      <module name="JMSDemo1" target="1.7" />
+      <module name="LastSwagger" target="1.7" />
+      <module name="NettyDemo" target="1.7" />
+      <module name="NettyDemo1FromBook" target="1.7" />
+      <module name="NettyHttpServer" target="1.7" />
+      <module name="ssss" target="1.6" />
+      <module name="Start" target="1.7" />
+      <module name="SwaggerTest" target="1.7" />
+      <module name="SwaggerTestTwo" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-boot-starter-thymeleaf-2.0.2.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/spring-boot-starter-thymeleaf-2.0.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

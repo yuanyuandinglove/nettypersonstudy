@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JMSDemo1/JMSDemo1.iml" filepath="$PROJECT_DIR$/JMSDemo1/JMSDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JmsDemo.iml" filepath="$PROJECT_DIR$/JmsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyDemo/NettyDemo.iml" filepath="$PROJECT_DIR$/NettyDemo/NettyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyDemo1FromBook/NettyDemo1FromBook.iml" filepath="$PROJECT_DIR$/NettyDemo1FromBook/NettyDemo1FromBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyHttpServer/NettyHttpServer.iml" filepath="$PROJECT_DIR$/NettyHttpServer/NettyHttpServer.iml" />
+    </modules>
+  </component>
+</project>

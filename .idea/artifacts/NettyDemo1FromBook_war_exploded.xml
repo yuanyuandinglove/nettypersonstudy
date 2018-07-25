@@ -1,0 +1,45 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="NettyDemo1FromBook:war exploded">
+    <output-path>$PROJECT_DIR$/NettyDemo1FromBook/target/NettyDemo1FromBook-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="NettyDemo1FromBook" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: io.netty:netty-all:5.0.0.Alpha1" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-activemq:1.5.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:1.5.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.5.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.5.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-logging:1.5.3.RELEASE" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.1.11" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.1.11" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.25" />
+          <element id="library" level="project" name="Maven: org.slf4j:jul-to-slf4j:1.7.25" />
+          <element id="library" level="project" name="Maven: org.slf4j:log4j-over-slf4j:1.7.25" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.17" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jms:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-messaging:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:activemq-broker:5.14.5" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:activemq-client:5.14.5" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1" />
+          <element id="library" level="project" name="Maven: org.fusesource.hawtbuf:hawtbuf:1.11" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:1.0.1" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:activemq-openwire-legacy:5.14.5" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/NettyDemo1FromBook/target/NettyDemo1FromBook-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="NettyDemo1FromBook/web/Web" />
+    </root>
+  </artifact>
+</component>

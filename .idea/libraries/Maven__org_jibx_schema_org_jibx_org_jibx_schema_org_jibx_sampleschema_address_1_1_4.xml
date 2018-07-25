@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jibx.schema.org.jibx:org.jibx.schema.org.jibx.sampleschema.address:1.1.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jibx/schema/org/jibx/org.jibx.schema.org.jibx.sampleschema.address/1.1.4/org.jibx.schema.org.jibx.sampleschema.address-1.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jibx/schema/org/jibx/org.jibx.schema.org.jibx.sampleschema.address/1.1.4/org.jibx.schema.org.jibx.sampleschema.address-1.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jibx/schema/org/jibx/org.jibx.schema.org.jibx.sampleschema.address/1.1.4/org.jibx.schema.org.jibx.sampleschema.address-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
